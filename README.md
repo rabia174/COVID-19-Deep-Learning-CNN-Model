@@ -50,4 +50,4 @@ network can be restructures so that it will be able to analyze images in more de
 Best Regards.
 F.Rabia Yapicioglu.
 
-© 2019 IrisDS. All rights reserved.
+© 2019 ArcticAI. All rights reserved.
